@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UtilsLib</string>
+    <string name="minutes_ago">%dm ago</string>
+    <string name="hours_ago">%dh ago</string>
+    <string name="time" translatable="false">%1$TH:%1$TM</string>
+    <string name="yesterday">yesterday</string>
+    <string name="date_time" translatable="false">%1$Td.%1$Tm.%1$TY %1$TH:%1$TM</string>
+</resources>
