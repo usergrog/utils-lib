@@ -1,4 +1,4 @@
-# skeleton
+# Utils-lib
 
 Add new repository
     maven { url "https://raw.github.com/usergrog/utils/mvn-repo" }
